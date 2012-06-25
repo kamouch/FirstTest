@@ -33,7 +33,7 @@ namespace PhoneApp1
 
             // Standard Silverlight initialization
             InitializeComponent();
-            Console.Write("33");
+            Console.Write("12");
 
             // Phone-specific initialization
             InitializePhoneApplication();
