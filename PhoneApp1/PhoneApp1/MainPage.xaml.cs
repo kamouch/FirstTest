@@ -19,6 +19,7 @@ namespace PhoneApp1
         public MainPage()
         {
             InitializeComponent();
+            Console.WriteLine("blah");
         }
     }
 }
